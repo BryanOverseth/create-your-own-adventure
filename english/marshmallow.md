@@ -14,6 +14,8 @@ The realization suddenly dawns upon you the marshmallow is self aware!
 
 Do you:
 
+[Consult with Flint Lockwood?](flint-lockwood/flint-lockwood.md)
+
 [Grab the lighter first?](lighter/grab-lighter.md)
 
 [make a swing with rope and jacket](enjoy-DreamRide/ride.md)
